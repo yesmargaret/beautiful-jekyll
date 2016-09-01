@@ -25,9 +25,10 @@ description: ohai
 navbar-links:
   About Me: "aboutme"
   Find Me:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - YouTube: "http://www.youtube.com/MargaretMacLennan"
+    - Twitter: "http://www.twitter.com/MargaretsBelly"
+    - Twitch: "http://www.twitch.tv/MargaretsBelly"
+    - Instagram: "http://www.instagram.com/MargaretsBelly"
   Support Me:
     - Patreon: "http://www.patreon.com/margaretmaclennan"
     - Amazon Wishlist: "http://www.amazon.ca/registry/wishlist/2IGW4S0PLB8VV"
