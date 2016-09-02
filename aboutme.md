@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All you ever need to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Margaret MacLennan. I'm a professionally trained bellydance with an ostomy resulting from inflammatory bowel disease (ulcerative colitis) since 2013. Now that that's out of the way --
+I've been a convention-going nerd for the past 5 years and have been working on my YouTube channel while branching out to Twitch. Throw all that on top of 10 years of right wing extremism and a ukulele, and you get a lot of people asking me if my parents are upset with my life choices.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Contact
 
-What else do you need?
+Margaretsbelly at gmail dot com
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+PO Box 25139, Clayton Park Post Office
+Halifax Nova Scotia
+B3M 4H4
