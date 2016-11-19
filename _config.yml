@@ -17,7 +17,7 @@ baseurl: ""
 title: Margaret MacLennan
 
 # Short description of your site
-description: ohai
+description: Official site for Margaret MacLennan.
 
 # --- Navigation bar options --- #
 
@@ -33,6 +33,7 @@ navbar-links:
     - Steam: "http://steamcommunity.com/id/margaretsbelly/"
   ASMR:
     - YouTube: "https://www.youtube.com/channel/UCUvrUz3QPiUNaDbZ2W2OfPA"
+    - ASMR Patreon: "http://www.patreon.com/trumpASMR"
   Support Me:
     - Patreon: "http://www.patreon.com/margaretmaclennan"
     - ASMR Patreon: "http://www.patreon.com/trumpASMR"
