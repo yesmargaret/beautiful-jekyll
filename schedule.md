@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: All you ever need to know
+title: Schedule
+subtitle: When you can find me.
 ---
 
-This is where my YouTube schedule will go.
+Every Monday night at youtube.com/margaretmaclennan at 9pm EST:
+The Monday Night Relationship Stream That Still Needs A Name
