@@ -4,11 +4,11 @@ title: Schedule
 subtitle: When you can find me.
 ---
 
-Feb 6 - Relationship Livestream 
-Feb 13 - Relationship Livestream 
-Feb 14 - Computer Build Livestream
-Feb 20 - Relationship Livestream 
-Feb 27 - Relationship Livestream 
+Feb 6 - Relationship Livestream  
+Feb 13 - Relationship Livestream  
+Feb 14 - Computer Build Livestream  
+Feb 20 - Relationship Livestream  
+Feb 27 - Relationship Livestream  
 
 | Sun 	| Mon 	| Tue 	| Wed 	| Thu 	| Fri 	| Sat 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
